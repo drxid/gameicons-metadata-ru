@@ -1,0 +1,19 @@
+{
+  "name": "gameicons-metadata-ru",
+  "version": "1.0.0",
+  "description": "Бесплатные метаданные для иконок с сайта game-icons.net на русском и английском",
+  "scripts": {
+    "generate json": "node generate-icons-json.mjs",
+    "translate ru": "node translate-ru-fields.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drxid/gameicons-metadata-ru.git"
+  },
+  "author": "drxid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drxid/gameicons-metadata-ru/issues"
+  },
+  "homepage": "https://github.com/drxid/gameicons-metadata-ru#readme"
+}
